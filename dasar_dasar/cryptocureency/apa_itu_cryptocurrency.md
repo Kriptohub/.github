@@ -1,25 +1,36 @@
 ### Apa itu Cryptocurrency?
 
-Cryptocurrency, atau mata uang kripto, adalah bentuk uang digital yang menggunakan teknologi kriptografi untuk mengamankan transaksi dan mengontrol penciptaan unit baru. Bayangkan cryptocurrency sebagai uang yang ada di internet, tidak berbentuk fisik seperti uang kertas atau koin, tetapi hanya ada di dunia digital. 
+Cryptocurrency, atau mata uang kripto, adalah bentuk uang digital yang menggunakan teknologi kriptografi untuk mengamankan transaksi. Bayangkan cryptocurrency sebagai uang yang ada di internet, tidak berbentuk fisik seperti uang kertas atau koin, tetapi hanya ada di dunia digital. 
 
-### Teknologi Blockchain
+Agar lebih mudah dipahami, mari kita terapkan di kehidupan sehari-hari. Sebelum itu mari kita pelajari evolusi uang atau sistem pembayaran dari dulu sampai sekarang.
 
-Di balik cryptocurrency, ada teknologi yang disebut blockchain. Blockchain adalah buku besar digital yang mencatat semua transaksi yang pernah dilakukan menggunakan cryptocurrency tersebut. Anda bisa membayangkan blockchain seperti buku akuntansi raksasa yang dimiliki oleh semua pengguna di jaringan. Setiap kali ada transaksi baru, catatan tersebut diperbarui dan disebarkan ke semua pengguna, memastikan transparansi dan keamanan.
+### Perjalanan Uang dari Masa ke Masa
 
-### Desentralisasi
+1. **Zaman Logam (1,200 Sebelum Masehi - 600 Masehi)**
+   - **Uang Logam**: Pada era ini, logam berharga seperti emas, perak, dan tembaga dicetak menjadi koin dan digunakan sebagai alat tukar.
+   - **Contoh**: Koin emas dan perak digunakan di Kekaisaran Romawi untuk perdagangan.
 
-Salah satu ciri utama cryptocurrency adalah desentralisasi. Tidak seperti mata uang konvensional yang dikelola oleh bank sentral atau pemerintah, cryptocurrency dijalankan oleh jaringan komputer yang tersebar di seluruh dunia. Ini berarti tidak ada satu entitas pun yang memiliki kontrol penuh atas sistem, mengurangi risiko manipulasi dan intervensi.
+2. **Zaman Kertas (600 Masehi - 1200 Masehi)**
+   - **Uang Kertas**: Introduksi uang kertas yang didukung oleh cadangan emas atau pemerintah mulai diperkenalkan.
+   - **Contoh**: Uang kertas pertama kali digunakan di Tiongkok selama Dinasti Tang.
 
-### Kriptografi dan Keamanan
+3. **Zaman Perbankan Awal (1200 Masehi - 1900 Masehi)**
+   - **Sistem Perbankan dan Cek**: Perkembangan sistem perbankan dengan layanan penyimpanan uang dan penggunaan cek sebagai alat pembayaran.
+   - **Contoh**: Bank Medici di Italia pada abad ke-15 menawarkan layanan penyimpanan dan cek. Bank-bank Indonesisa juga disebut Perbankan Awal.
 
-Cryptocurrency menggunakan kriptografi untuk mengamankan transaksi dan menjaga privasi pengguna. Misalnya, Bitcoin, salah satu cryptocurrency paling terkenal, menggunakan algoritma kriptografi yang kompleks untuk memastikan bahwa transaksi hanya dapat diakses oleh pihak yang berwenang dan tidak dapat diubah oleh pihak luar.
+4. **Zaman Modern (Tahun 1950 - sekarang)**
+   - **Kartu Kredit dan Kartu Debit**: Perkembangan kartu plastik yang memungkinkan transaksi elektronik semakin pesat.
+   - **Contoh**: Kartu kredit pertama dikeluarkan oleh Diners Club pada tahun 1950, dan kartu debit mulai digunakan secara luas pada tahun 1980-an.
 
-### Contoh Cryptocurrency
+5. **Era Digital (Tahun 2000 - sekarang)**
+   - **Pembayaran Digital dan Mobile**: Sistem pembayaran melalui perangkat digital seperti smartphone dan aplikasi pembayaran semakin dominan.
+   - **Contoh**: Menggunakan aplikasi seperti BCA Mobile, BRI Mobile, GoPay, OVO, Dana, PayPal, ShoopePay untuk membayar barang dan jasa.
 
-Beberapa contoh cryptocurrency yang populer termasuk Bitcoin, Ethereum, Ripple, dan Litecoin. Masing-masing memiliki fitur dan kegunaan yang berbeda. Bitcoin sering dianggap sebagai "emas digital" karena jumlahnya yang terbatas dan nilainya yang tinggi. Ethereum, di sisi lain, lebih fokus pada pengembangan aplikasi terdesentralisasi melalui kontrak pintar.
+6. **Era Cryptocurrency (Tahun 2009 - sekarang)**
+   - **Cryptocurrency dan Blockchain**: Uang digital yang menggunakan teknologi blockchain untuk mencatat dan memverifikasi transaksi.
+   - **Contoh**: Menggunakan Bitcoin atau Ethereum untuk transaksi online atau investasi.
 
-### Manfaat dan Risiko
+Cryptocurrency menjadi solusi alat pembayaran meskipun saat ini di kalangan masyarakat masih minim informasi, baru tau sampai era digital sampai E-Wallet. Crypto bisa dibilang seperti BCA Mobile atau DANA, ada angka tapi tidak ada fisiknya, tapi itu sah untuk pembayaran. 
 
-Cryptocurrency menawarkan berbagai manfaat, termasuk transaksi yang cepat dan murah, akses ke layanan keuangan bagi mereka yang tidak memiliki rekening bank, dan potensi keuntungan investasi yang tinggi. Namun, juga ada risiko yang signifikan, seperti volatilitas harga yang tinggi, kemungkinan kehilangan akses ke dompet digital, dan ancaman dari penipuan dan peretasan.
+Jika kamu punya uang Rp.100,000 di BCA Mobile, itu artinya uang/angka di Aplikasi 1 : 1 dengan yang ada di kantor bank BCA. Cryptocurrency juga seperti itu, misal kamu punya $10 USDT crypto maka itu sama aja 1 : 1 yang ada di kantor bank USD. Jika uang rupiah kita simpan di aplikasi DANA/BCA Mobile, kalau di cryptocurrency kamu bisa menyimpan di wallet / dompet. Untuk mempelajari apa itu wallet silahkan ke Menu `Dompet dan Keamanan`
 
-Dengan memahami dasar-dasar cryptocurrency, kita bisa lebih siap menghadapi perkembangan teknologi finansial ini dan memanfaatkannya dengan bijak.

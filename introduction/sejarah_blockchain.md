@@ -20,18 +20,6 @@ Blockchain dan Bitcoin merupakan dua inovasi yang saling terkait dan telah mengu
 
 2. **Perkembangan Ekosistem**: Sejak saat itu, ekosistem Bitcoin terus berkembang. Banyak bursa pertukaran (exchange) mulai muncul, memungkinkan orang untuk membeli dan menjual Bitcoin. Selain itu, berbagai bisnis mulai menerima Bitcoin sebagai alat pembayaran.
 
-#### Keunggulan dan Tantangan
-
-1. **Keunggulan Bitcoin**:
-   - **Desentralisasi**: Tidak dikendalikan oleh satu entitas, sehingga lebih aman dari manipulasi dan sentralisasi kekuasaan.
-   - **Transparansi**: Semua transaksi tercatat di blockchain dan dapat diakses oleh siapa saja.
-   - **Keamanan**: Menggunakan kriptografi canggih untuk melindungi data dan transaksi.
-
-2. **Tantangan Bitcoin**:
-   - **Volatilitas**: Harga Bitcoin sangat fluktuatif, membuatnya kurang stabil sebagai alat tukar.
-   - **Regulasi**: Banyak negara masih mencari cara untuk mengatur Bitcoin dan teknologi blockchain.
-   - **Skalabilitas**: Seiring dengan bertambahnya jumlah pengguna, jaringan Bitcoin menghadapi tantangan dalam hal kecepatan dan biaya transaksi.
-
 #### Masa Depan Blockchain dan Bitcoin
 
 Teknologi blockchain dan Bitcoin terus berkembang dan menarik perhatian lebih banyak orang, dari individu hingga perusahaan besar dan pemerintah. Potensi penggunaan blockchain di luar Bitcoin juga mulai dieksplorasi, seperti dalam sistem rantai pasokan, keuangan, kesehatan, dan bahkan pemerintahan.

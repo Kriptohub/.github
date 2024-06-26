@@ -2,9 +2,9 @@
 
 Blockchain adalah teknologi yang mendasari mata uang digital seperti Bitcoin, tetapi konsepnya bisa diaplikasikan di berbagai bidang lainnya. Untuk memahami cara kerjanya, kita akan menjelaskannya dengan menggunakan perumpamaan sederhana.
 
-#### Blok dan Rantai
+#### Blok dan Chain
 
-Bayangkan kamu memiliki buku catatan besar yang disebut "Buku Transaksi". Setiap halaman di buku ini adalah "blok", dan setiap blok berisi catatan transaksi terbaru. Setiap kali buku catatan ini penuh, kamu perlu memulai halaman baru. Namun, sebelum halaman baru ini dimulai, kamu harus mencatat sesuatu dari halaman sebelumnya di halaman baru ini untuk memastikan bahwa setiap halaman terhubung. Dengan cara ini, halaman-halaman ini membentuk rantai yang tidak bisa dipisahkan, sehingga disebut "blockchain" atau rantai blok.
+Bayangkan kamu memiliki buku catatan besar yang disebut "Buku Transaksi". Setiap halaman di buku ini adalah "blok", dan setiap blok berisi catatan transaksi terbaru. Setiap kali kamu menulis dan buku catatan ini penuh, kamu perlu memulai halaman baru. Namun, sebelum halaman baru ini dimulai, kamu harus mencatat sesuatu dari halaman sebelumnya di halaman baru ini untuk memastikan bahwa setiap halaman terhubung. Dengan cara ini, halaman-halaman ini membentuk rantai yang tidak bisa dipisahkan, sehingga disebut "blockchain" atau rantai blok.
 
 #### Desentralisasi
 

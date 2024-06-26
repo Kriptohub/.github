@@ -1,39 +1,43 @@
 # Apa itu Blockchain?
-Blockchain adalah teknologi yang relatif baru namun memiliki potensi besar untuk merevolusi berbagai industri. Secara sederhana, blockchain adalah sebuah buku besar digital yang terdesentralisasi dan tersebar di berbagai komputer yang berbeda. Untuk memahami blockchain lebih dalam, mari kita jelajahi beberapa konsep kunci dan perumpamaan yang bisa membantu memperjelas teknologi ini.
+Secara sederhana, blockchain adalah sebuah buku besar digital yang terdesentralisasi dan tersebar di berbagai komputer yang berbeda. Untuk memahami blockchain lebih dalam, mari kita jelajahi beberapa konsep kunci dan perumpamaan yang bisa membantu memperjelas teknologi ini.
 
 ## Konsep Dasar Blockchain
-1. Desentralisasi: Tidak seperti sistem tradisional yang terpusat, di mana satu entitas memiliki kontrol penuh, blockchain beroperasi di jaringan komputer yang terdistribusi. Setiap komputer dalam jaringan ini, yang disebut node, memiliki salinan dari seluruh blockchain.
+1. **Desentralisasi**: Tidak seperti sistem tradisional yang terpusat, di mana satu entitas memiliki kontrol penuh, blockchain beroperasi di jaringan komputer yang terdistribusi. Setiap komputer dalam jaringan ini, yang disebut node, memiliki salinan dari seluruh blockchain.
 
-2. Blok dan Rantai: Informasi dalam blockchain disimpan dalam blok. Setiap blok berisi data transaksi, cap waktu (timestamp), dan hash dari blok sebelumnya. Hash adalah kode unik yang dihasilkan dari data blok. Blok-blok ini dihubungkan satu sama lain membentuk rantai, sehingga dinamakan blockchain.
+2. **Blok dan Chain**: Informasi dalam blockchain disimpan dalam blok. Setiap blok berisi data transaksi, cap waktu (timestamp), dan hash dari blok sebelumnya. Hash adalah kode unik yang dihasilkan dari data blok. Blok-blok ini dihubungkan satu sama lain membentuk rantai, sehingga dinamakan blockchain.
 
-3. Transparansi dan Keamanan: Karena setiap node memiliki salinan dari blockchain, setiap perubahan harus disetujui oleh mayoritas node, membuatnya hampir tidak mungkin untuk memanipulasi data tanpa terdeteksi. Transparansi ini memastikan keamanan dan integritas data.
+3. **Transparansi dan Keamanan**: Karena setiap node memiliki salinan dari blockchain, setiap perubahan harus disetujui oleh mayoritas node, membuatnya hampir tidak mungkin untuk memanipulasi data tanpa terdeteksi. Transparansi ini memastikan keamanan dan integritas data.
 
 ## Perumpamaan untuk Memahami Blockchain
 Agar lebih mudah dipahami, mari kita gunakan beberapa perumpamaan sehari-hari untuk menjelaskan bagaimana blockchain bekerja.
 
-1. Buku Besar Digital: Bayangkan blockchain sebagai buku besar akuntansi digital yang dipegang oleh banyak orang (node) secara bersamaan. Setiap kali ada transaksi baru, semua orang menuliskan transaksi tersebut di buku besar mereka. Jika ada seseorang yang mencoba mengubah transaksi di buku besar mereka, perbedaan ini akan langsung terdeteksi oleh yang lain.
+Bayangkan blockchain sebagai `buku catatan transaksi digital` berbentuk pdf yang bisa dilihat oleh semua orang di seluruh dunia secara bersamaan. Setiap kali ada transaksi baru, semua orang menuliskan transaksi tersebut di buku catatan tersebut. 
 
-2. Rantai Emas: Anggaplah setiap blok sebagai mata rantai emas. Setiap mata rantai memiliki informasi penting dan terkait erat dengan mata rantai sebelumnya dan setelahnya. Jika seseorang mencoba mengubah salah satu mata rantai, maka rantai keseluruhan akan rusak, dan ini akan langsung terlihat oleh semua orang yang memegang rantai tersebut.
-
-3. Kunci dan Gembok: Setiap transaksi di blockchain diamankan dengan kriptografi, mirip seperti mengunci informasi dengan kunci rahasia. Hanya orang yang memiliki kunci tersebut yang dapat membuka dan melihat isinya. Selain itu, setiap blok memiliki kunci yang dihasilkan dari informasi dalam blok tersebut, dan kunci ini juga menjadi bagian dari blok berikutnya, menciptakan interkoneksi yang kuat.
+Seperti ini, misalnya Annisa transfer Rp.100,000 ke Dewi di rekening BCA. siapa yang tau transksi itu bahwa Annisa transfer Rp.100,000 ke Dewi dan Dewi menerima uang Rp.100,000 dari Annisa. Yang mengetahui transaksi tersebut kedua belah pihak (Annisa dan Dewi) ditambah Pusat Bank BCA. 
+    
+Di blockchain, misalnya Annisa mentransfer Rp.100.000 ke Dewi menggunakan teknologi blockchain, semua orang di dunia dapat mengetahui transaksi tersebut. Mereka hanya bisa melihat detail transaksi berupa tautan di explorer blockchain karena salah satu sifat utama blockchain adalah anonimitas. 
 
 ## Keunggulan Blockchain
-1. Keamanan: Karena data di blockchain disimpan di berbagai node dan diamankan dengan kriptografi, sangat sulit bagi peretas untuk mengubah atau merusak data.
+1. **Transparansi**: Semua transaksi misalnya transfer itu tercatat di Buku Catatan Digital dan dapat dilihat oleh semua orang di seluruh dunia, mengurangi kemungkinan penipuan.
+   
+2. **Anonim**: Meskipun semua transaksi bisa dicatat dan dilihat, tapi untuk siapa yang mengirim dan menerima anomin atau tidak ada muncul nama Annisa atau Dewi.
 
-2. Transparansi: Semua transaksi tercatat dan dapat dilihat oleh semua pihak yang terlibat, mengurangi kemungkinan penipuan.
+3. **Efisiensi**: Blockchain menghilangkan kebutuhan perantara pihak ketiga, seperti bank atau lembaga keuangan, sehingga proses transaksi menjadi lebih cepat dan biaya lebih rendah. disini yang di maksud bisa dicontohkan seperti Bank-bank BCA, BRI, dll. 
 
-3. Efisiensi: Blockchain menghilangkan kebutuhan perantara pihak ketiga, seperti bank atau lembaga keuangan, sehingga proses transaksi menjadi lebih cepat dan biaya lebih rendah.
+4. **Keamanan**: Karena data di blockchain disimpan di berbagai node dan diamankan dengan kriptografi, sangat sulit bagi peretas untuk mengubah atau merusak data.
 
 ## Tantangan dan Masa Depan Blockchain
 Meskipun memiliki banyak keunggulan, blockchain juga menghadapi beberapa tantangan, seperti:
 
-1. Skalabilitas: Seiring bertambahnya jumlah transaksi, blockchain dapat menjadi lebih lambat dan membutuhkan lebih banyak sumber daya.
+1. **Regulasi**: Banyak negara masih mengembangkan regulasi untuk mengatur penggunaan teknologi blockchain, terutama terkait dengan mata uang digital.
 
-2. Regulasi: Banyak negara masih mengembangkan regulasi untuk mengatur penggunaan teknologi blockchain, terutama terkait dengan mata uang digital.
+2. **Adopsi**: Meskipun potensinya besar, adopsi blockchain masih terbatas dan memerlukan waktu serta edukasi untuk diimplementasikan secara luas.
 
-3. Adopsi: Meskipun potensinya besar, adopsi blockchain masih terbatas dan memerlukan waktu serta edukasi untuk diimplementasikan secara luas.
+Namun, dengan perkembangan teknologi yang terus berlanjut, banyak ahli percaya bahwa blockchain akan memainkan peran penting di masa depan dalam berbagai industri, dari keuangan hingga kesehatan dan pemerintahan. 
 
-Namun, dengan perkembangan teknologi yang terus berlanjut, banyak ahli percaya bahwa blockchain akan memainkan peran penting di masa depan dalam berbagai industri, dari keuangan hingga kesehatan dan pemerintahan.
+Untuk di Negara Indonesia ini ada rencana menggunakan teknologi blockchain sebagai alat pembayaran dan transaksi negara. Blockchain itu transparan, transaksi bisa diihat kapan transfernya, berapa yang di transferkan, kemana transferan itu. Jadi bisa menjadi solusi untuk memberantas korupsi di Indonesia. 
+
+Jika teknologi blockchain resmi atau regulasi di negara, Pejabat-Pejabat jika akan melakukan transfer kita bisa melihatnya.
 
 ## Kesimpulan
-Blockchain adalah teknologi revolusioner yang menawarkan keamanan, transparansi, dan efisiensi dalam penyimpanan dan pertukaran data. Dengan pemahaman tentang konsep dasar, perumpamaan, keunggulan, serta tantangan yang ada, kita dapat melihat potensi besar yang dimiliki oleh blockchain untuk mengubah cara kita bertransaksi dan berbagi informasi di masa depan.
+Blockchain adalah `teknologi` revolusioner yang menawarkan keamanan, transparansi, dan efisiensi dalam penyimpanan dan pertukaran data. Bitcoin adalah `emas digital` sebagai pengganti uang tradisonal dan mengurangi dampak inflasi. Dengan pemahaman tentang konsep dasar, perumpamaan, keunggulan, serta tantangan yang ada, kita dapat melihat potensi besar yang dimiliki oleh blockchain untuk mengubah cara kita bertransaksi dan berbagi informasi di masa depan. 

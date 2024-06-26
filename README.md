@@ -1,13 +1,13 @@
 # .github
 
-![logo](.gitbook/asset/kriptohub.png)
+![kriptohub](.gitbook/asset/kriptohub.png)
 
-Kriptohub adalah platform edukasi yang didedikasikan untuk membantu masyarakat memahami dunia blockchain dan mata uang kripto. Dengan semakin berkembangnya teknologi ini, banyak orang yang tertarik untuk mengetahui lebih jauh namun sering kali terhambat oleh istilah-istilah teknis dan kompleksitas konsep yang ada. Kriptohub hadir untuk menjembatani kesenjangan pengetahuan ini dengan menyediakan informasi yang mudah dipahami dan komprehensif.
+Kriptohub adalah platform edukasi yang didedikasikan untuk membantu pengguna memahami dunia blockchain dan mata uang kripto. Dengan semakin berkembangnya teknologi ini, banyak orang yang tertarik untuk mengetahui lebih jauh namun sering kali terhambat oleh istilah-istilah teknis dan kompleksitas konsep yang ada. Kriptohub hadir untuk menjembatani kesenjangan pengetahuan ini dengan menyediakan informasi yang mudah dipahami. 
 
 ## Apa yang Ditawarkan Kriptohub?
 
 1. **Panduan Pemula**:
-   - Kriptohub menyediakan berbagai artikel dan panduan yang dirancang khusus untuk pemula. Konten ini mencakup penjelasan dasar tentang apa itu blockchain, bagaimana cara kerja kripto, serta bagaimana cara membeli, menyimpan, dan menggunakan mata uang kripto.
+   - Kriptohub menyediakan berbagai artikel dan panduan yang dirancang khusus untuk pemula. Kriptohub mencakup penjelasan dasar tentang apa itu blockchain, bagaimana cara kerja kripto, serta bagaimana cara membeli, menyimpan, dan menggunakan mata uang kripto.
 
 2. **Pemahaman Tentang Airdrop**:
    - Salah satu topik yang dibahas secara mendalam di Kriptohub adalah konsep airdrop. Airdrop adalah distribusi gratis token kripto kepada komunitas pengguna sebagai bagian dari strategi pemasaran atau promosi. Kriptohub menjelaskan bagaimana cara berpartisipasi dalam airdrop, risiko yang mungkin terkait, dan bagaimana cara memaksimalkan manfaat dari airdrop tersebut.
@@ -16,7 +16,7 @@ Kriptohub adalah platform edukasi yang didedikasikan untuk membantu masyarakat m
    - Kriptohub selalu memperbarui kontennya dengan berita terkini tentang perkembangan dunia kripto dan blockchain. Pengguna bisa mendapatkan informasi terbaru mengenai proyek-proyek baru, regulasi, dan tren pasar yang sedang berlangsung.
 
 4. **Tutorial dan Video Edukasi**:
-   - Selain artikel, Kriptohub juga menyediakan tutorial langkah demi langkah dan video edukasi yang membantu pengguna memahami konsep-konsep teknis dengan lebih mudah. Video ini mencakup topik seperti cara membuat wallet, memahami smart contract, dan cara berinvestasi di kripto.
+   - Selain artikel, Kriptohub juga nantinya menyediakan tutorial langkah demi langkah dan video edukasi yang membantu pengguna memahami konsep-konsep teknis dengan lebih mudah.
 
 5. **Analisis dan Review Proyek**:
    - Kriptohub memberikan analisis mendalam dan review dari berbagai proyek blockchain dan kripto. Ini membantu pengguna untuk membuat keputusan yang lebih baik tentang investasi dan partisipasi dalam berbagai proyek kripto.
@@ -27,10 +27,7 @@ Kriptohub adalah platform edukasi yang didedikasikan untuk membantu masyarakat m
 7. **Keamanan dan Perlindungan**:
    - Keamanan adalah aspek kritis dalam dunia kripto. Kriptohub menyediakan panduan tentang bagaimana cara menjaga keamanan aset digital, termasuk penggunaan dompet hardware, teknik penyimpanan yang aman, dan cara menghindari penipuan.
 
-8. **Kursus Terstruktur**:
-   - Untuk pengguna yang ingin belajar secara lebih terstruktur, Kriptohub menawarkan kursus online yang mencakup berbagai aspek dari blockchain dan kripto. Kursus ini dirancang oleh ahli di bidangnya dan mencakup modul-modul interaktif serta ujian untuk mengukur pemahaman pengguna.
-
-9. **Glosarium Istilah**:
+8. **Glosarium Istilah**:
    - Sering kali, pemula merasa kewalahan dengan banyaknya istilah teknis dalam dunia kripto. Kriptohub memiliki glosarium istilah yang menjelaskan istilah-istilah ini dengan cara yang sederhana dan mudah dimengerti.
 
 ## Misi Kriptohub

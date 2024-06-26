@@ -2,9 +2,9 @@
 
 * [Profile](README.md)
 * [Pengantar](introduction/README.md)
-  * [Apa itu Blockchain](introduction/apa_itu_blockchain.md)
-  * [Apa itu Bitcoin](introduction/apa_itu_bitcoin.md)
   * [Sejarah Blockchain](introduction/sejarah_blockchain.md)
+  * [Apa itu Bitcoin](introduction/apa_itu_bitcoin.md)
+  * [Apa itu Blockchain](introduction/apa_itu_blockchain.md)
 * [Dasar-Dasar](dasar_dasar/README.md)
   * [Blockchains](dasar_dasar/blockchains/README.md)
     * [Cara Kerja Blockchain](dasar_dasar/blockchains/cara_kerja_blockchain.md)
